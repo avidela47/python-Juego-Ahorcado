@@ -1,1 +1,1 @@
-# Juego del ahorcadoen Python
+# Juego del ahorcado en Python
